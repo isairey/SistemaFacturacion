@@ -157,7 +157,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-sistema-facturacion/
+SistemaFacturacion/
 │
 ├── app/
 │   ├── Models/
@@ -200,7 +200,7 @@ sistema-facturacion/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/dimacros/sistema-facturacion.git
+git clone https://github.com/isairey/SistemaFacturacion.git
 ```
 
 ---
@@ -208,7 +208,7 @@ git clone https://github.com/dimacros/sistema-facturacion.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd sistema-facturacion
+cd SistemaFacturacion
 ```
 
 ---
